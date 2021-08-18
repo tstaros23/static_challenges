@@ -37,3 +37,11 @@ div {
 .topnav a:visited {
   color: white;
 }
+
+footer {
+    width: 100%;
+    bottom: 0;
+    height: auto;
+    color: white;
+  background-color: black;
+}
