@@ -12,10 +12,16 @@ h1 {
   }
 
 div {
-  margin-bottom: 200px;
+  margin-bottom: 30px;
   padding: 30px;
   color: white;
   background-color: grey;
+}
+
+.dam {
+  padding-right: 30px;
+  padding-bottom: 400px;
+  padding-left: 30px;
 }
 
 .topnav {
