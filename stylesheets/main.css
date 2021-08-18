@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+
+h1 {
+    background-color: red;
+    padding: 30px;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+  }
+
+div {
+  margin-bottom: 200px;
+  padding: 30px;
+  color: white;
+  background-color: grey;
+}
+
+.topnav {
+
+  font-size: 22px;
+  text-align: right;
+}
+
+.topnav a:link {
+  color: white;
+}
+
+.topnav a:visited {
+  color: white;
+}
